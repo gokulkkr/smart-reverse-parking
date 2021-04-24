@@ -1,0 +1,2 @@
+# smart-reverse-parking
+This project is a little demonstration of smart reverse parking system that is used in cars. By using the Arduino, LEDs and Ultrasonics Sensor (HC-SR04) we can desgin this project. If distance from the car and the obstacle (say wall) is less than 19 cm - Red LED will glow, else if the distance is greater than 20cm and less than 39cm - Blue LED will glow, else if the distance is greater than 40cm and less than 50cm - Green LED will glow.
